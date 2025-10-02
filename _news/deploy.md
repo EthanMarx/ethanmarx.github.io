@@ -1,23 +1,16 @@
 ---
 layout: post
 date: 2025-08-01 15:59:00-0400
-title: Deployed deep learning gravitational wave detection and parameter estimation algorithms
+title: Deployed deep-learning gravitational-wave detection and parameter estimation algorithms into production
 inline: false
 related_posts: false
 ---
 
 With colleagues at MIT and collaborators at University of Minnesota (UMN), we've deployed a 
-real-time, deep-learning-based binary-black-hole search, [Aframe](/projects/aframe), and parameter estimation algorithm, [AMPLFI](amplfi) into production. This is the first time deep-learning is being used 
+real-time, deep-learning based binary black hole search, [Aframe](/projects/aframe), and parameter estimation algorithm, [AMPLFI](amplfi) into production. This is the first time deep-learning is being used 
 together for both detection and parameter estimation of gravitational wave sources. See [this announcement](https://cse.umn.edu/mifa/news/umn-and-mit-launch-first-real-time-machine-learning-search-colliding-black-holes) from UMN for more information.
 
-
-Compared with traditional statistical methods, deep learning approaches are faster and have a smaller computational footprint.
-Traditional statistical techniques will always have their place in science due to their interpretability. 
-Still, this represents the beginning of a paradigm shift in how gravitational wave data analysis can be performed.
-
-
-Detecting sources as quickly is possible is critical for maximizing the potential of multi-messenger astronomy.
-Here's an example [GCN circular](https://gcn.nasa.gov/circulars/41601?view=index&query=S250830m+&startDate=&endDate=&sort=circularID) distributed to the astronomical community that Aframe and AMPLFI contributed to.
+Compared with traditional statistical methods, deep learning approaches are faster and have a smaller computational footprint. Detecting sources as quickly is possible is critical for maximizing the potential of multi-messenger astronomy. Here's an example [GCN circular](https://gcn.nasa.gov/circulars/41601?view=index&query=S250830m+&startDate=&endDate=&sort=circularID) distributed to the astronomical community that Aframe and AMPLFI contributed to.
 
 ```
 TITLE:   GCN CIRCULAR
@@ -59,5 +52,8 @@ For further information about analysis methodology and the contents of this aler
  [9] Chatterjee et al. MLST 5, 045030 (2024) doi:10.1088/2632-2153/ad8982
  [10] Singer & Price PRD 93, 024013 (2016) doi:10.1103/PhysRevD.93.024013
  ```
+
+Traditional statistical techniques will always have their place in science due to their interpretability. 
+Still, this represents the beginning of a paradigm shift in how gravitational wave data analysis can be performed.
 
 
