@@ -116,7 +116,11 @@
                 </li>
               {% endif %}
             {% endif %}
-          {% endfor %}
+          {% endfor %} 
+      <!-- CV -->
+          <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
+	      <a class="nav-link" target="_blank" href="{{ '/assets/pdf/cv.pdf' | relative_url }}">CV</a>
+          </li>
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
@@ -125,7 +129,8 @@
               </button>
             </li>
           {% endif %}
-          {% if site.enable_darkmode %}
+    
+          {% if siteenable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">

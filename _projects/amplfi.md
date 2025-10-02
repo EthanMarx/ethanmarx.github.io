@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: AMPLFI 
+description: Parameter estimation of Gravitational Wave Candidates with Likelihood Free Inference
+img: assets/img/publication_preview/amplfi.jpg
 importance: 2
-category: work
+category: Research
 giscus_comments: true
 ---
 
