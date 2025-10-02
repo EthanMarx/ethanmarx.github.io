@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "news-machine-learning-detection-and-parameter-estimation-algorithm-deployed",
-          title: 'Machine learning detection and parameter estimation algorithm deployed',
+        },{id: "news-deployed-deep-learning-gravitational-wave-detection-and-parameter-estimation-algorithms",
+          title: 'Deployed deep learning gravitational wave detection and parameter estimation algorithms',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/news/deploy/";
             },},{id: "projects-aframe",
           title: 'Aframe',
           description: "Detecting Gravitational Waves with Machine Learning",
