@@ -30,19 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-machine-learning-detection-and-parameter-estimation-algorithm-deployed",
+        },{id: "news-machine-learning-detection-and-parameter-estimation-algorithm-deployed",
           title: 'Machine learning detection and parameter estimation algorithm deployed',
           description: "",
           section: "News",handler: () => {
@@ -52,9 +40,9 @@ ninja.data = [{
           description: "Detecting Gravitational Waves with Machine Learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/aframe/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-amplfi",
+          title: 'AMPLFI',
+          description: "Parameter estimation of Gravitational Wave Candidates with Likelihood Free Inference",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amplfi/";
             },},{
