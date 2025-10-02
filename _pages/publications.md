@@ -2,9 +2,10 @@
 layout: page
 permalink: /publications/
 title: Publications 
-description: Publications 
+description: Papers I have led or contributed significantly to 
 nav: true
 nav_order: 1
+social: true
 ---
 
 <!-- _pages/publications.md -->

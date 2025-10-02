@@ -2,19 +2,17 @@
 layout: about
 title: About 
 permalink: /
-subtitle: PhD student @ MIT in Physics, Statistics and Data Science
+subtitle: <em>PhD student @ MIT in Physics, Statistics and Data Science</em>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cambridge, Ma</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -28,6 +26,6 @@ latest_posts:
 ---
 
 
-My name is Ethan Marx. I am a graduate student at MIT in Physics, Statistics and Data Science. 
+My name is Ethan Marx. I am a graduate student at MIT in [Physics, Statistics and Data Science](https://physics.mit.edu/academic-programs/graduate-students/psds-phd/). 
 
-My research interests lie at the intersection of machine learning and gravitational wave astronomy.
+My research lie at the intersection of machine learning and gravitational wave astronomy.
