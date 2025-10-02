@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/aframe/";
             },},{id: "projects-amplfi",
           title: 'AMPLFI',
-          description: "Parameter estimation of Gravitational Wave Candidates with Likelihood Free Inference",
+          description: "Parameter Estimation of Gravitational Wave Sources with Likelihood Free Inference",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amplfi/";
             },},{
